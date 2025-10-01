@@ -42,5 +42,15 @@ Includes:
 - ⚡ **Improved SLA Compliance** → Identify underperforming channels and allocate resources effectively  
 - 📉 **Reduced Resolution Times** → Track performance across support methods  
 - 🎯 **Category Focus** → Prioritize high-volume issues (e.g., Billing)  
-- 📈 **Operational Transparency** → Month-over-month trends for staffing & planning  
+- 📈 **Operational Transparency** → Month-over-month trends for staffing & planning
+
+- ## 📝 How to Use
+1. Download the `.pbix` file from this repo.  
+2. Open in **Power BI Desktop**.  
+3. Explore visuals using filters (Year, Month, Category).  
+4. Connect to your own dataset if needed and refresh.
+
+   ## 📌 About This Project
+This dashboard was built as part of my **Power BI portfolio**, focusing on performance monitoring use cases. It demonstrates my ability to design **interactive dashboards, build KPIs with DAX, and model business data** effectively.  
+
 
