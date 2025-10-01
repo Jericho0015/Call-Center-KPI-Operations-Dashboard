@@ -15,4 +15,13 @@ The **Call Center Dashboard** helps managers and analysts track customer support
 - 📝 **Data Modeling** – Relationships across tickets, categories, and time  
 - 📁 **File Format** – `.pbix` for development, `.png` for preview 
 
+## 📂 Data Source
+**Source:** Simulated call center dataset  
+
+Includes:  
+- Ticket volumes by **Calls, Chats, and Emails**  
+- ⏱ **Average resolution time** per channel  
+- 🎯 **SLA compliance rate**  
+- 🗂 Ticket categories (Billing Issues, Login Problems, Technical Support, etc.)  
+- 📅 Monthly trends across 2023 
 
