@@ -5,3 +5,7 @@ This dashboard provides a detailed view of ticket volumes, resolution times, SLA
 ## 📊 Dashboard Preview
 ![Call Center Dashboard](https://github.com/Jericho0015/Call-Center-KPI-Operations-Dashboard/blob/main/Report%20Preview/Preview%20of%20Report.PNG)
 
+## 🎯 Project Purpose
+The **Call Center Dashboard** helps managers and analysts track customer support activities across calls, chats, and emails. It enables data-driven decisions by highlighting **SLA performance, resolution times, and ticket distribution by category**.  
+
+
