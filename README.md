@@ -23,5 +23,18 @@ Includes:
 - ⏱ **Average resolution time** per channel  
 - 🎯 **SLA compliance rate**  
 - 🗂 Ticket categories (Billing Issues, Login Problems, Technical Support, etc.)  
-- 📅 Monthly trends across 2023 
+- 📅 Monthly trends across 2023
+
+  ## ✨ Key Features
+- **Channel Overview (Calls, Chats, Emails):**
+  - Ticket Volume + % MoM change  
+  - SLA Compliance Rate (gauge)  
+  - Average Resolution Time  
+  - Ticket Volume by Category (bar chart)  
+
+- **Trends Over Time:**  
+  Monthly patterns of ticket volumes across different communication channels  
+
+- **Category Analysis:**  
+  Identifies top issue types driving customer support demand  
 
